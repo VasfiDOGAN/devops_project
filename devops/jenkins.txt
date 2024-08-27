@@ -1,5 +1,0 @@
-DevOps öğreniyorum
-
-Ctrl + C
-exit
-
